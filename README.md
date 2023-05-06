@@ -1,5 +1,5 @@
 A project which create Weather API.
-
+```
 **Live Demo:** http://13.235.113.175/api/weather?city=patna
 ```
 
