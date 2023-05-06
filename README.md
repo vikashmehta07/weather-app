@@ -12,8 +12,6 @@ Install Laravel Dependencies -
 ```console
 composer install
 ```
-Create `.env` file by copying `.env.example` file
-
 Run Project -
 ```php
 php artisan serve
