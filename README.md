@@ -16,3 +16,8 @@ Run Project -
 ```php
 php artisan serve
 ```
+API route-
+```
+http://127.0.0.1:8000/api/weather?city=(city-name)
+example city-name=Patna
+```
