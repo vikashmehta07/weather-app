@@ -2,10 +2,11 @@
 Git clone -
 ```console
 git clone https://github.com/vikashmehta07/weather-app.git
+```
 
 Go to project folder -
 ```console
-cd laravel-role
+cd weather-app
 ```
 Install Laravel Dependencies -
 ```console
