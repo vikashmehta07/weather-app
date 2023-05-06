@@ -1,7 +1,7 @@
 ## Project Setup
 Git clone -
 ```console
-git clone https://github.com/ManiruzzamanAkash/laravel-role.git
+git clone https://github.com/vikashmehta07/weather-app.git
 
 Go to project folder -
 ```console
